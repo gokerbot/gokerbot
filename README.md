@@ -1,4 +1,4 @@
-## Hi there 👋
+## [Hi there](https://ship.page/dashboard/drops/rogue-copper-39pl8) 👋
 
 <!--
 **gokerbot/gokerbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
